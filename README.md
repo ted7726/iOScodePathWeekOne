@@ -25,7 +25,7 @@ Time spent: `8`
 - [ ] Add a search bar: pretty simple implementation of searching against the existing table view data.
 
 ### Walkthrough
-![Video Walkthrough](./9d4fXIm.gif)
+![Video Walkthrough](https://github.com/ted7726/iOScodePathWeekOne/blob/master/rec1.gif)
 
 Credits
 ---------
